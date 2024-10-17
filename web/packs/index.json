@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "100oj-default.json"
+  ],
+  "homeserver_url": "https://matrix.frieswings.com"
+}
