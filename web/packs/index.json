@@ -1,6 +1,7 @@
 {
   "packs": [
-    "100oj-default.json"
+    "100oj-default.json",
+    "wordmotes.json"
   ],
   "homeserver_url": "https://matrix.frieswings.com"
 }
